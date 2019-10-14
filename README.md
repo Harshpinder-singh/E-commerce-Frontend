@@ -2,7 +2,7 @@ Libraries used- React.js , Redux , ant.design , react-router-dom , axios , style
 
 ## Features- 
 1. user can login and register , custom authentication is used with jwt,bcrypt.js,validator on backend with node.js,express.js and monogDb
-2. user and see products without logging in .
+2. user can see products without logging in .
 3. user can only add product to cart if he/she is logged in .
 4. price calculation is being done on backend based on products price.
 5. only if user is logged in as seller he/she can add product .
