@@ -1,0 +1,28 @@
+@import '~antd/dist/antd.css';
+.App {
+  text-align: center;
+}
+
+.App .logo {
+  width: 120px;
+  height: 31px;
+  background: rgba(255, 255, 255, 0.2);
+  margin: 16px 24px 16px 0;
+  float: left;
+}
+
+#register{
+  
+}
+#register .login-form {
+  max-width: 300px;
+  margin:0 auto;
+}
+#register .login-form-forgot {
+  float: right;
+}
+#register .login-form-button {
+  width: 100%;
+}
+
+
